@@ -5,6 +5,6 @@
 > [Flexblog](https://lucasheverton.github.io/flexblog/)
 
 <div align="center">
-  <img width="75%" src="./flexblog.gif" alt="Apresentation Wildbeast" title="Apresentation Wildbeast"/>
+  <img width="75%" src="./flexblog.gif" alt="Apresentation Flexblog" title="Apresentation Flexblog"/>
 </div>
 
